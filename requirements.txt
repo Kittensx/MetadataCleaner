@@ -1,0 +1,4 @@
+pillow
+pyinstaller
+imageio-ffmpeg
+wand
