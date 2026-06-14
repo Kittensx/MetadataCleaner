@@ -1,4 +1,4 @@
-Metadata Cleaner Drop Tool v2
+Metadata Cleaner Drop Tool 
 
 This version is more aggressive than the first Pillow-only version.
 
